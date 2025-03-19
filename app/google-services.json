@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "253037230551",
+    "firebase_url": "https://docswift-137f3-default-rtdb.firebaseio.com",
+    "project_id": "docswift-137f3",
+    "storage_bucket": "docswift-137f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253037230551:android:d16869c5d6171657613392",
+        "android_client_info": {
+          "package_name": "com.dluong.docswift"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253037230551-j6un17dmag3e5nmf0jlubjg9mrgrvlj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dluong.docswift",
+            "certificate_hash": "b68971aa5df6d2549fcda4ffa5017e4ccba61269"
+          }
+        },
+        {
+          "client_id": "253037230551-ghsoc18vjnbe5ithe4eelbbijvupan8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjg4MXJEuXL_ouuq_9tF0b2yDgtB9khNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253037230551-ghsoc18vjnbe5ithe4eelbbijvupan8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
