@@ -4,7 +4,7 @@
 DocSwift is a mobile application designed to streamline doctor-patient communication and appointment scheduling. The app provides a user-friendly interface for patients to book appointments, message doctors, view health records, and more, enhancing healthcare accessibility and efficiency.
 
 ## Key Features
-- **Appointment Booking**: Patients can easily schedule appointments with doctors.
+- **Appointment Booking**: CRUD app. Patients can easily schedule appointments with doctors.
 - **Messaging**: Secure and direct communication between patients and doctors.
 - **Health Records**: Display vital patient health metrics in a clear format.
 - **Doctor Management**: Tools for doctors to manage their profiles and schedules.
